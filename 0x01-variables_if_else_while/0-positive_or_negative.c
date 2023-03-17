@@ -1,6 +1,6 @@
 #include <stdlib.h>
 #include <time.h>
-#include <stdlib.h>
+#include <stdio.h>
 /**
  * main - check the number (+ve,-ve or 0)
  * Return: 0
