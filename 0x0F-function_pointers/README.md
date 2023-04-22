@@ -1,1 +1,1 @@
-# 0x0F. C - Function pointers
+This folder contains tasks for pointers to function in C
