@@ -3,9 +3,9 @@
 
 /**
  * insert_nodeint_at_index - Inserts a new node at a given position.
- * @head: Pointer to the pointer to the first element of the list.
- * @idx: Index of the new node to be inserted.
- * @n: Data of the new node to be inserted.
+ * @head: param- Pointer to the pointer to the first element of the list.
+ * @idx: param -Index of the new node to be inserted.
+ * @n: param- Data of the new node to be inserted.
  *
  * Return: Pointer to the new node, or NULL on failure.
  */

@@ -3,8 +3,8 @@
 
 /**
  * delete_nodeint_at_index - Deletes the node at index of a listint_t list.
- * @head: Pointer to a pointer to the first element of a linked list.
- * @index: The index of the node to be deleted.
+ * @head: param - Pointer to a pointer to the first element of a linked list.
+ * @index: param-The index of the node to be deleted.
  *
  * Return: 1 on success, -1 on failure.
  */

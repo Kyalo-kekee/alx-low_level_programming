@@ -2,9 +2,9 @@
 
 /**
  * reverse_listint - Reverses a linked list
- * @head: Pointer to the head of the list
+ * @head: param-Pointer to the head of the list
  *
- * Return: Pointer to the first node of the reversed list
+ * Return: param- Pointer to the first node of the reversed list
  */
 
 listint_t *reverse_listint(listint_t **head)

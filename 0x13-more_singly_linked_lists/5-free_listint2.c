@@ -4,7 +4,7 @@
 
 /**
  * free_listint - frees the memory allocated for list
- * @head: pointer to the head of the list
+ * @head: param -pointer to the head of the list
  *
  * Return: Nothing
  */

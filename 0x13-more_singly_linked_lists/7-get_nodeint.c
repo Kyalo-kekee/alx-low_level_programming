@@ -4,8 +4,8 @@
 
 /**
  * get_nodeint_at_index - returns the nth node of a listint_t linked list
- * @head: pointer to the head node of the linked list
- * @index: index of the node to return (starting at 0)
+ * @head: param pointer to the head node of the linked list
+ * @index: param -index of the node to return (starting at 0)
  *
  * Return: pointer to the nth node of the linked list,
  * or NULL if it does not exist
